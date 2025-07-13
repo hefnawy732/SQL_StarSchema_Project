@@ -56,10 +56,12 @@ Design a **star schema** from the cleaned cafe sales dataset to support efficien
 
 ---
 ## Example of Vizualizations
-<img width="1025" height="577" alt="image" src="https://github.com/user-attachments/assets/b2c90e0c-fa57-4d27-a339-cd377f234eed" />
+<img width="1517" height="768" alt="image" src="https://github.com/user-attachments/assets/985df245-6b0d-4ccc-8cb2-a42db4c493a4" />
 
-<img width="993" height="575" alt="image" src="https://github.com/user-attachments/assets/e5def048-8847-4123-b51d-c79cdbddfe1a" />
 
-<img width="1001" height="567" alt="image" src="https://github.com/user-attachments/assets/5ac4fff5-b93c-4baa-bfa6-89a9e22eeb3c" />
+<img width="1543" height="766" alt="image" src="https://github.com/user-attachments/assets/a697e6af-b21c-45e0-8b22-53b7fe233560" />
+
+
+<img width="1566" height="767" alt="image" src="https://github.com/user-attachments/assets/31fa3d98-30b0-4c6e-af27-33bc0648b146" />
 
 
