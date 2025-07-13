@@ -55,8 +55,11 @@ Design a **star schema** from the cleaned cafe sales dataset to support efficien
    CREATE INDEX idx_fact_payment_method ON fact_sales(payment_method_id);
 
 ---
-Example of Vizualizations
+## Example of Vizualizations
+<img width="1025" height="577" alt="image" src="https://github.com/user-attachments/assets/b2c90e0c-fa57-4d27-a339-cd377f234eed" />
+
 <img width="993" height="575" alt="image" src="https://github.com/user-attachments/assets/e5def048-8847-4123-b51d-c79cdbddfe1a" />
+
 <img width="1001" height="567" alt="image" src="https://github.com/user-attachments/assets/5ac4fff5-b93c-4baa-bfa6-89a9e22eeb3c" />
 
 
